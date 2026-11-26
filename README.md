@@ -31,7 +31,7 @@ Left-click another upgrade while research is active to queue it. Numbered blue b
 
 ## Known limitations
 
-Some native dialogs and text remain unscaled; high-resolution text can fall back to native raster scaling. The exact release package, including simultaneous operation of both ASIs, needs a final Windows smoke test. Report problems with resolution, executable version and `MC_Modernization.log`.
+Some native dialogs and text remain unscaled; high-resolution text can fall back to native raster scaling. Not tested in 1080p or 4k. Report problems with resolution and `MC_Modernization.log`.
 
 ## Source
 
