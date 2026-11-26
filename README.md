@@ -44,3 +44,6 @@ See [BUILD.md](BUILD.md) for compilation and optional executable compatibility c
 - Mykola1453: separate Tycoon Widescreen Patch. ThirteenAG: separate Ultimate ASI Loader.
 
 See [THIRD-PARTY.md](THIRD-PARTY.md) for binary provenance and dependency license review.
+
+<img width="2560" height="1440" alt="Screenshot1" src="https://github.com/user-attachments/assets/18195e23-da96-40ec-b3ee-9f4c96611fb2" />
+<img width="2560" height="1440" alt="Screenshot2" src="https://github.com/user-attachments/assets/32f594a5-cf9a-44e7-8869-0418270180d8" />
